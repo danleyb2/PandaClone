@@ -1,0 +1,12 @@
+#eclipse
+bin/*
+.settings/*
+src/Trial.java #trials file
+
+#not ignoring for easy importing
+#.classpath
+#.project
+
+
+#intelliJ config
+idea/*
